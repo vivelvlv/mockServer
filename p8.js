@@ -307,12 +307,6 @@ var obj = {
         return str.indexOf(substr) >= 0;
     },
 
-    qa: 'http://cp01-tuangou-qa02.cp01.baidu.com:8405',
-    online: 'http://app.nuomi.com',
-    preview: 'http://apptest.nuomi.com',
-    rd: 'http://cp01-rdqa-pool358.cp01.baidu.com:8687',
-    sandbox: 'http://cp01-tsm-baino02.cp01.baidu.com:8200',
-    test: 'http://182.254.217.75:9999'
 };
 
 obj.initServer();
